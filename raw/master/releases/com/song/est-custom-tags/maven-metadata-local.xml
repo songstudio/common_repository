@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.song</groupId>
+  <artifactId>est-custom-tags</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140702115007</lastUpdated>
+  </versioning>
+</metadata>
